@@ -110,6 +110,8 @@ Example table row:
 
 Know of a great GitHub repository related to Strudel? Add it to the Awesome Repositories section with a brief description.
 
+1. [PLAYER](https://github.com/abrambailey/player) - A local-first Strudel song builder with a live code editor, step sequencer, piano roll, sound browser, timeline/arrangement view, effect knobs, `.strudel` import/export, and shareable song links. [Demo](https://player-eight-teal.vercel.app/)
+
 ### 📖 Adding Tutorials
 
 Found a helpful Strudel tutorial, workshop, or learning resource? Add it to the Awesome Tutorials section.
